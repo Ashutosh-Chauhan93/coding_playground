@@ -1,1 +1,1 @@
-To keep up with data structures and algorithms
+Data structures and algorithms related problems and my solutions
