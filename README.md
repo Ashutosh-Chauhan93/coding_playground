@@ -1,1 +1,1 @@
-# Keeping up with DSA
+To keep up with data structures and algorithms
